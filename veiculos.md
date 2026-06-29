@@ -1,9 +1,5 @@
 # Relatório de Estoque e Condições de Pagamento
 
-* **Data de Geração:** 2026-06-24T11:50:09.919Z
-* **Total de Veículos (Preço Cheio):** 147
-* **Total de Modelos (Consórcio):** 25
-
 ---
 
 ## 1. Veículos (Preço Cheio)
