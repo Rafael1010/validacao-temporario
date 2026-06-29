@@ -1,5 +1,4 @@
 # Relatório de Estoque e Condições de Pagamento
-
 ---
 
 ## 1. Veículos (Preço Cheio)
